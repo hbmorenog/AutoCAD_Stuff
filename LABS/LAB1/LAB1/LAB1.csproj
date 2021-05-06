@@ -32,16 +32,13 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="AcCoreMgd">
-      <HintPath>..\..\..\..\Programas\AutoDesk\ObjectARX 2015\Autodesk_ObjectARX_2015_Win_64_and_32_Bit\inc\AcCoreMgd.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>E:\Data\Programas\AutoDesk\ObjectARX 2015\Autodesk_ObjectARX_2015_Win_64_and_32_Bit\inc\AcCoreMgd.dll</HintPath>
     </Reference>
     <Reference Include="AcDbMgd">
-      <HintPath>..\..\..\..\Programas\AutoDesk\ObjectARX 2015\Autodesk_ObjectARX_2015_Win_64_and_32_Bit\inc\AcDbMgd.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>E:\Data\Programas\AutoDesk\ObjectARX 2015\Autodesk_ObjectARX_2015_Win_64_and_32_Bit\inc\AcDbMgd.dll</HintPath>
     </Reference>
     <Reference Include="AcMgd">
-      <HintPath>..\..\..\..\Programas\AutoDesk\ObjectARX 2015\Autodesk_ObjectARX_2015_Win_64_and_32_Bit\inc\AcMgd.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>E:\Data\Programas\AutoDesk\ObjectARX 2015\Autodesk_ObjectARX_2015_Win_64_and_32_Bit\inc\AcMgd.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

@@ -1,0 +1,13 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "dll",
+      "exe": "",
+      "project": "LABS\\LAB3\\LAB3\\LAB3\\myCommands.Designer.cs",
+      "projectTarget": "",
+      "name": "myCommands.Designer.cs"
+    }
+  ]
+}
